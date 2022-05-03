@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Rodr1k
-communication engineering
-Ningbo University
-Sophomore
+- communication engineering
+- Ningbo University
+- Sophomore
